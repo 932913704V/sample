@@ -28,3 +28,5 @@ Creating people-centric economic and social development by directing, supervisin
 - Transforming to a technology enterprise economy by expanding enterprise development technological infrastructure and related services to expand the export contribution of the technology sector and the knowledge and professional service contribution of the national economy. .
 
 - Establishment of Techno Parks to create high income generating jobs for the youth through transition to technology focused investments, businesses, entrepreneurship and allied service industries.
+
+this has been edited file.
